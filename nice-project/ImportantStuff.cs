@@ -21,7 +21,10 @@ namespace NiceProject
             {
                 sum += number;
             }
-
+			vector<int> a(n);
+			while(true){
+				cout << a[0];
+			}
             return sum;
         }
     }
